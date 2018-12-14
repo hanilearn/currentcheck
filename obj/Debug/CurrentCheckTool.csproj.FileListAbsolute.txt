@@ -1,0 +1,12 @@
+D:\00000000000\currenttest\CurrentCheckTool\bin\Debug\CurrentCheckTool.exe.config
+D:\00000000000\currenttest\CurrentCheckTool\bin\Debug\CurrentCheckTool.exe
+D:\00000000000\currenttest\CurrentCheckTool\bin\Debug\CurrentCheckTool.pdb
+D:\00000000000\currenttest\CurrentCheckTool\obj\Debug\CurrentCheckTool.csprojResolveAssemblyReference.cache
+D:\00000000000\currenttest\CurrentCheckTool\obj\Debug\CurrentCheckTool.Form1.resources
+D:\00000000000\currenttest\CurrentCheckTool\obj\Debug\CurrentCheckTool.Properties.Resources.resources
+D:\00000000000\currenttest\CurrentCheckTool\obj\Debug\CurrentCheckTool.csproj.GenerateResource.Cache
+D:\00000000000\currenttest\CurrentCheckTool\obj\Debug\CurrentCheckTool.exe
+D:\00000000000\currenttest\CurrentCheckTool\obj\Debug\CurrentCheckTool.pdb
+D:\00000000000\currenttest\CurrentCheckTool\bin\Debug\System.Net.Http.dll
+D:\00000000000\currenttest\CurrentCheckTool\bin\Debug\System.Net.Http.xml
+D:\00000000000\currenttest\CurrentCheckTool\bin\Debug\zh-Hant\System.Net.Http.resources.dll

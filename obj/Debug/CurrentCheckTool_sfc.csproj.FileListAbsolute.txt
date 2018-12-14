@@ -1,0 +1,34 @@
+D:\00000000000\currenttest\CurrentCheckTool_sfc\bin\Debug\CurrentCheckTool_sfc.exe.config
+D:\00000000000\currenttest\CurrentCheckTool_sfc\bin\Debug\CurrentCheckTool_sfc.exe
+D:\00000000000\currenttest\CurrentCheckTool_sfc\bin\Debug\CurrentCheckTool_sfc.pdb
+D:\00000000000\currenttest\CurrentCheckTool_sfc\bin\Debug\System.Net.Http.dll
+D:\00000000000\currenttest\CurrentCheckTool_sfc\bin\Debug\System.Net.Http.xml
+D:\00000000000\currenttest\CurrentCheckTool_sfc\bin\Debug\zh-Hant\System.Net.Http.resources.dll
+D:\00000000000\currenttest\CurrentCheckTool_sfc\obj\Debug\CurrentCheckTool_sfc.csprojResolveAssemblyReference.cache
+D:\00000000000\currenttest\CurrentCheckTool_sfc\obj\Debug\CurrentCheckTool.Form1.resources
+D:\00000000000\currenttest\CurrentCheckTool_sfc\obj\Debug\CurrentCheckTool_sfc.Properties.Resources.resources
+D:\00000000000\currenttest\CurrentCheckTool_sfc\obj\Debug\CurrentCheckTool_sfc.csproj.GenerateResource.Cache
+D:\00000000000\currenttest\CurrentCheckTool_sfc\obj\Debug\CurrentCheckTool_sfc.exe
+D:\00000000000\currenttest\CurrentCheckTool_sfc\obj\Debug\CurrentCheckTool_sfc.pdb
+C:\Documents and Settings\1\桌面\currentcheck\CurrentCheckTool_sfc\bin\Debug\CurrentCheckTool_sfc.exe.config
+C:\Documents and Settings\1\桌面\currentcheck\CurrentCheckTool_sfc\obj\Debug\CurrentCheckTool_sfc.exe
+C:\Documents and Settings\1\桌面\currentcheck\CurrentCheckTool_sfc\obj\Debug\CurrentCheckTool_sfc.pdb
+C:\Documents and Settings\1\桌面\currentcheck\CurrentCheckTool_sfc\bin\Debug\CurrentCheckTool_sfc.exe
+C:\Documents and Settings\1\桌面\currentcheck\CurrentCheckTool_sfc\bin\Debug\CurrentCheckTool_sfc.pdb
+C:\Documents and Settings\1\桌面\currentcheck\CurrentCheckTool_sfc\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1\桌面\currentcheck\CurrentCheckTool_sfc\obj\Debug\CurrentCheckTool.Form1.resources
+C:\Documents and Settings\1\桌面\currentcheck\CurrentCheckTool_sfc\obj\Debug\CurrentCheckTool_sfc.Properties.Resources.resources
+C:\Documents and Settings\1\桌面\currentcheck\CurrentCheckTool_sfc\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\1\桌面\currentcheck\CurrentCheckTool_sfc\obj\Debug\GenerateResource.write.1.tlog
+D:\00000000000\currenttest\DELTA\CurrentCheckTool_sfc\bin\Debug\CurrentCheckTool_sfc.exe.config
+D:\00000000000\currenttest\DELTA\CurrentCheckTool_sfc\bin\Debug\CurrentCheckTool_sfc.exe
+D:\00000000000\currenttest\DELTA\CurrentCheckTool_sfc\bin\Debug\CurrentCheckTool_sfc.pdb
+D:\00000000000\currenttest\DELTA\CurrentCheckTool_sfc\bin\Debug\System.Net.Http.dll
+D:\00000000000\currenttest\DELTA\CurrentCheckTool_sfc\bin\Debug\System.Net.Http.xml
+D:\00000000000\currenttest\DELTA\CurrentCheckTool_sfc\bin\Debug\zh-Hant\System.Net.Http.resources.dll
+D:\00000000000\currenttest\DELTA\CurrentCheckTool_sfc\obj\Debug\CurrentCheckTool_sfc.csprojResolveAssemblyReference.cache
+D:\00000000000\currenttest\DELTA\CurrentCheckTool_sfc\obj\Debug\CurrentCheckTool.Form1.resources
+D:\00000000000\currenttest\DELTA\CurrentCheckTool_sfc\obj\Debug\CurrentCheckTool_sfc.Properties.Resources.resources
+D:\00000000000\currenttest\DELTA\CurrentCheckTool_sfc\obj\Debug\CurrentCheckTool_sfc.csproj.GenerateResource.Cache
+D:\00000000000\currenttest\DELTA\CurrentCheckTool_sfc\obj\Debug\CurrentCheckTool_sfc.exe
+D:\00000000000\currenttest\DELTA\CurrentCheckTool_sfc\obj\Debug\CurrentCheckTool_sfc.pdb

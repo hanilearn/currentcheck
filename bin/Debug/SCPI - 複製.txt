@@ -1,0 +1,80 @@
+﻿Open:COM2
+Monitor:1.Full current:
+SCPI:*RST
+Delay:1000
+SCPI:rems; adc;
+Delay:1000
+SCPI:meas?
+Delay:1000
+Recv:20000
+Compare:0.18/0.21
+Close:
+Open:COM3
+Monitor:2.Hg Battery Current:
+SCPI:*RST
+Delay:1000
+SCPI:rems; adc;
+Delay:1000
+SCPI:meas?
+Delay:1000
+Recv:20000
+Compare:0.000008/0.000011
+Close:
+Open:COM3
+Monitor:3.Hg Battery Voltage:
+SCPI:*RST
+Delay:1000
+SCPI:rems; vdc;
+Delay:1000
+SCPI:meas?
+Delay:1000
+Recv:20000
+Compare:2.0/2.8
+Close:
+End
+
+Agilent 設定:
+*CLS =>清除
+SYST:REM =>遠程控制
+MEAS:CURR:DC? =>直流電流量測
+p.s. 取值可用read指令
+
+Fluck45 設定:
+*RST =>清除
+rems; adc; meas? =>遠程控制、直流電流量測
+p.s. 取值用meas?指令
+
+Open:COM3
+Monitor:1.Full current:
+SCPI:*CLS
+Delay:500
+SCPI:SYST:REM
+Delay:500
+SCPI:MEAS:CURR:DC?
+Delay:500
+Recv:20000
+Compare:0.180/0.190
+Close:
+Open:COM1
+Monitor:2.Hg Battery Current:
+SCPI:*CLS
+Delay:500
+SCPI:SYST:REM
+Delay:500
+SCPI:MEAS:CURR:DC?
+Delay:500
+Recv:20000
+Compare:0.000008/0.000010
+Close:
+Open:COM1
+Monitor:3.Hg Battery Voltage:
+SCPI:*CLS
+Delay:500
+SCPI:SYST:REM
+Delay:500
+SCPI:MEAS:VOLT:DC?
+Delay:500
+Recv:20000
+Compare:3.2/3.4
+Close:
+End

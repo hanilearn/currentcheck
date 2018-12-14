@@ -1,0 +1,34 @@
+﻿Open:COM3
+Monitor:1.Full current:
+SCPI:*CLS
+Delay:500
+SCPI:SYST:REM
+Delay:500
+SCPI:MEAS:CURR:DC?
+Delay:500
+Recv:20000
+Compare:0.180/0.190
+Close:
+Open:COM1
+Monitor:2.Hg Battery Current:
+SCPI:*CLS
+Delay:500
+SCPI:SYST:REM
+Delay:500
+SCPI:MEAS:CURR:AC?
+Delay:500
+Recv:20000
+Compare:0.000008/0.000010
+Close:
+Open:COM1
+Monitor:3.Hg Battery Voltage:
+SCPI:*CLS
+Delay:500
+SCPI:SYST:REM
+Delay:500
+SCPI:MEAS:VOLT:DC?
+Delay:500
+Recv:20000
+Compare:3.2/3.4
+Close:
+End
